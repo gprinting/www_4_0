@@ -1,2 +1,5 @@
 **/*.sql
 **/inc/attach/gp
+**/*.pdf
+**/*.z
+**/*.zip
